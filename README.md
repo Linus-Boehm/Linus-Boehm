@@ -2,6 +2,8 @@
 
 Currently working for [Syncier](https://syncier.com) and building Products with Go and Vue.js
 
+
+#### Social
 [LinkedIn](https://www.linkedin.com/in/linus-boehm/)
 
 <!--
