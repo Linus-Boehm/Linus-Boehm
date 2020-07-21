@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Linus 👋
+
+Currently working for [Syncier](https://syncier.com) and building Products with Go and Vue.js
+
+[LinkedIn](https://www.linkedin.com/in/linus-boehm/)
 
 <!--
 **Linus-Boehm/Linus-Boehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
