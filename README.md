@@ -1,6 +1,6 @@
 ### Hi there, I'm Linus 👋
 
-Currently working for [Syncier](https://syncier.com) and building Products with Go and Vue.js
+Currently working for [Tacto](https://tacto.ai) and building Products with Go, Python, Vue.js an React
 
 
 #### Social
