@@ -1,6 +1,6 @@
 ### Hi there, I'm Linus 👋
 
-Currently working for [Tacto](https://tacto.ai) and building Products with Go, Python, Vue.js an React
+Currently working for [Tacto](https://tacto.ai) and building Products with Go, Python, Vue.js and React
 
 
 #### Social
